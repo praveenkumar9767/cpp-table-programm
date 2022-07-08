@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+  int main()
+  {
+    int num;
+    cout<< "The table of 7"<< endl;                      //tables code//
+    cin>> num;
+    for(int i=1; i<=10; i++){
+    cout<< "7"<<"X"<< i<< "="<<num*i<<endl;
+  } return 0;
+  }
+
+//https://github.com/praveenkumar9767/using-oops-concepts-cpp/commits?author=praveenkumar9767//
